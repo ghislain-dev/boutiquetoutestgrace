@@ -49,3 +49,8 @@ footer{
     background-color: beige;
     margin: 10px;
 }
+.image1{
+    background: url(image/ggkinorg.jpg) no-repeat;
+    background-size: cover;
+    height: 250px;
+}
